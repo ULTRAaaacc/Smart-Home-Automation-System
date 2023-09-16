@@ -55,6 +55,12 @@ body {
     padding: 3rem;
 }
 
+/* Make the iframe responsive */
+#video iframe {
+    max-width: 100%;
+    height: auto;
+}
+
 /* Section styles */
 section {
     padding: 3rem;
